@@ -20,14 +20,20 @@ Learn how to recover BTC with WalletGen. Discover how to use brute force and see
 - [Build Instructions](#building-the-project)
 - [Donate](#donate)
 
-[![platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20Android-blue)](https://github.com/tony-dev1/wallets-finder/releases/tag/walletgen)
+[![platform](https://img.shields.io/badge/platform-Windows%20%7C%20MacOS%20%7C%20Linux%20%7C%20Android-blue)](https://github.com/tony-dev1/wallets-finder/releases/tag/walletgen)
 ![build](https://img.shields.io/badge/build-passing-brightgreen)
 ![discord](https://img.shields.io/badge/discord-tonydevbtc-blue.svg?logo=discord&label=discord)
 [![x](https://img.shields.io/badge/@tonydevbtc-black.svg?logo=x)](https://x.com/tonydevbtc)
+[![telegram](https://img.shields.io/badge/@wallgenbtc-blue.svg?logo=telegram)](https://t.me/wallgenbtc)
 
 <p align="center">
     <img width="1000" alt="How to recover btc" title="WalletGen - How to Recover Bitcoin" height="460" src="/build/column.webp" />
 </p>
+
+<p align="center">
+    <img width="1000" alt="How to recover btc" title="WalletGen - How to Recover Bitcoin" height="460" src="/build/walletgen_macos1.webp" />
+</p>
+
 
 ⚠️ **Disclaimer**: WalletGen is a research and educational tool. It is not intended for unauthorized access or malicious activity. Use it responsibly and only with wallets you own or have permission to access.
 
@@ -66,6 +72,10 @@ Unlike Python-based brute force tools, **WalletGen** is written in C++ and optim
 </p>
 
 <p align="center">
+    <img width="1000" height="460" alt="How to recover btc demo" title="WalletGen - Bitcoin Recovery Demonstration" src="/build/walletgen_macos2.webp" />
+</p>
+
+<p align="center">
     <img width="1000" height="460" alt="How to recover btc on Linux" title="WalletGen - Linux Bitcoin Recovery" src="/build/row.webp" />
 </p>
 
@@ -79,14 +89,12 @@ Unlike Python-based brute force tools, **WalletGen** is written in C++ and optim
 Or Just Download [Installer](../../releases)
 
 ## MacOS
- [Download](../../releases)
+ - Download [WalletGen.dmg](../../releases) (1MB)
 
 ## Linux (x86-64bit)
 
 Use wget 
 or download [Release for Linux](../../releases) 
-
-
 
 
 ## How to Search for Lost Bitcoin & Ethereum Wallets with Balance
@@ -216,4 +224,5 @@ I encourage you, when you find a wallet with a balance, to send me a small porti
 This project uses code from the [Trezor project](https://github.com/trezor/trezor-crypto). The code is licensed under the MIT License.
 
 ## License
+
 This project is licensed under the [MIT License](/LICENSE)
