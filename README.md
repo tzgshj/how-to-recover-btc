@@ -8,10 +8,10 @@ Learn how to recover BTC with WalletGen. Discover how to use brute force and see
 -->
 
 ## Quick Navigation
+- [Download WalletGen](#how-to-start)
 - [How It Works](#how-it-works)
 - [Why WalletGen](#why-walletgen)
 - [Features](#features)
-- [Download WalletGen](#how-to-start)
 - [Database Download](#download-and-use-database-for-more-speed)
 - [The Program Found a Wallet - What Next?](#the-program-found-a-wallet--whats-next)
 - [Recovery Your Bitcoin Wallet](#recovery-your-bitcoin-wallet)
@@ -226,3 +226,4 @@ This project uses code from the [Trezor project](https://github.com/trezor/trezo
 ## License
 
 This project is licensed under the [MIT License](/LICENSE)
+
